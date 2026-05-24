@@ -7,7 +7,6 @@ auto init = [](){
     return 0;
 }();
 
-
 int main(){
 
     int T;
