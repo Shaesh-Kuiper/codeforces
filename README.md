@@ -5,7 +5,7 @@ A personal log of my daily Codeforces problem solutions.
 ## Structure
 
 Problems are organized by date or contest — each file is named after
-the problem (e.g., `1234A.cpp`, `1234B.cpp`).
+the problem (e.g., `Swap And Delete.cpp`, `Watermelons.cpp`).
 
 ## Languages Used
 - C++ (primary)
